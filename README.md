@@ -1,2 +1,2 @@
 # Projeto-EBAC
-Projeto para o exercício 
+Projeto de análise de crédito.
